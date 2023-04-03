@@ -1,0 +1,47 @@
+main{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(220,220,220, 0.5);
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#image{
+    padding: 20px;
+    
+}
+#img-div{
+    background-color: white;
+}
+figcaption{
+    padding-bottom: 20px;
+}
+h1{
+    font-weight: 50%;
+    font-size: 250%;
+    
+}
+#tribute-info{
+    width: 50%;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    padding: 20px;
+}
+span{
+    font-weight: bold;
+}
+li{
+    padding: 10px;
+}
+#italic{
+    padding: 10px;
+    font-style: italic;
+}
+a{
+    color: teal;
+}
